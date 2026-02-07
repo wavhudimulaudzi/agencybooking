@@ -41,10 +41,10 @@ The more important api's in Guest and Hotel are the add Guest and Hotel as these
 **Guest Request Example:**
 ```json
 {
-    "name": "Hope",
+    "name": "wavhudi",
     "surname": "Mulaudzi",
     "email": "mulaudzi@gmail.com",
-    "mobileNumber": "0760188780",
+    "mobileNumber": "072456789",
     "address": "20c corsair rd, cape town, 7441",
     "userOfEntry": "Wavhudi"
 }
